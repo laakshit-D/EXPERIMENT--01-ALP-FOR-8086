@@ -1,7 +1,3 @@
-Name : LAAKSHIT D
-
-Register no : 212222230071
-
 # EXPERIMENT 01: ALP FOR 8086
 
 ## Aim: 
